@@ -1,2 +1,3 @@
 # MyInstagram
- My first project made solely for training coding skills
+
+ My first project made solely to practice in coding.
